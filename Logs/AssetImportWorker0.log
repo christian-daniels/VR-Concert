@@ -105,3 +105,93 @@ Received Import Request.
   path: Assets/Scenes/Concert.unity
   artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Concert.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb6da9ab55dc632539c8b82cba2738b3') in 0.007179 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 610.754208 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3c96ab4986816b7b77dea28d49d6a8') in 0.006203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.767837 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(8ad2b60f2087a0b4d9ef7acfd3c5da5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(8ad2b60f2087a0b4d9ef7acfd3c5da5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fada0be6ea14283692ef360da6f56e00') in 0.006162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.240620 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(8ad2b60f2087a0b4d9ef7acfd3c5da5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(8ad2b60f2087a0b4d9ef7acfd3c5da5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5360c9c533ddfca7a81434742674ed2') in 0.005396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.882711 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(996be2a7821559249ad32e3128a43562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(996be2a7821559249ad32e3128a43562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae1c3934c9fb03edc103596a57ba6dbf') in 0.001795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.116736 seconds.
+  path: Assets/Fonts
+  artifactKey: Guid(996be2a7821559249ad32e3128a43562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts using Guid(996be2a7821559249ad32e3128a43562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '676a92baf9718d7c65b6f6e4a0abd0aa') in 0.006554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 181.971280 seconds.
+  path: Assets/Fonts/AntipastoPro-Bold_trial.ttf
+  artifactKey: Guid(5c2b9066ad1145247bfc97094b6e000a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/AntipastoPro-Bold_trial.ttf using Guid(5c2b9066ad1145247bfc97094b6e000a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a34a1775b4e553700c80a9d7a853ef') in 0.120027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Fonts/AntipastoPro-Light_trial.ttf
+  artifactKey: Guid(ddf83d09468fb6c4c9a6ac4bae33b26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/AntipastoPro-Light_trial.ttf using Guid(ddf83d09468fb6c4c9a6ac4bae33b26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16aa2e45099584eb8222df6e94459e91') in 0.012486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Fonts/AntipastoPro_trial.ttf
+  artifactKey: Guid(87b7b8ba40392e84c948389233a3dea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/AntipastoPro_trial.ttf using Guid(87b7b8ba40392e84c948389233a3dea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bee71fa8ef7ce87fe333b7b57c9e820') in 0.013757 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Fonts/AntipastoPro-Extralight_trial.ttf
+  artifactKey: Guid(c760ac10335037d4dae7ddc538c90e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/AntipastoPro-Extralight_trial.ttf using Guid(c760ac10335037d4dae7ddc538c90e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce2426ed85f19d0e7ff3cf75c354feaa') in 0.013684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Fonts/AntipastoPro-ExtraBold_trial.ttf
+  artifactKey: Guid(b14de6a9ed599f1499f490b26e257563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/AntipastoPro-ExtraBold_trial.ttf using Guid(b14de6a9ed599f1499f490b26e257563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa66121d690ae36949e5df2aa9c390a') in 0.012564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Fonts/AntipastoPro-Thin_trial.ttf
+  artifactKey: Guid(f5994d0e159f64f4c85261c80c01c9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/AntipastoPro-Thin_trial.ttf using Guid(f5994d0e159f64f4c85261c80c01c9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fdc580123cf374fd39bbdc4854d909a') in 0.012178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Fonts/AntipastoPro-Medium_trial.ttf
+  artifactKey: Guid(5aaeccbfb5b64844d85c7b384533a4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/AntipastoPro-Medium_trial.ttf using Guid(5aaeccbfb5b64844d85c7b384533a4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d9e0e609bb5579cfbd324f6e8335c65') in 0.011282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Fonts/AntipastoPro-Hairline_trial.ttf
+  artifactKey: Guid(f2f4f22c0785c1348a666b9d7f51c20f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/AntipastoPro-Hairline_trial.ttf using Guid(f2f4f22c0785c1348a666b9d7f51c20f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '311c4ca6622c29317c6a5e8800143718') in 0.011039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Fonts/AntipastoPro-DemiBold_trial.ttf
+  artifactKey: Guid(a8732bb57862b134b932d90d725f1e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/AntipastoPro-DemiBold_trial.ttf using Guid(a8732bb57862b134b932d90d725f1e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5377fb776c2504d1f7e692b906feaa78') in 0.010696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Fonts/AntipastoPro-Thin_trial 2.ttf
+  artifactKey: Guid(c3965a80a9431504f99ac6add7bcc4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/AntipastoPro-Thin_trial 2.ttf using Guid(c3965a80a9431504f99ac6add7bcc4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e942f610d3d939b0e5eb77e4586223e') in 0.010981 seconds 
