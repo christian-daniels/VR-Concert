@@ -19,3 +19,453 @@ Logs/AssetImportWorker0.log
 Successfully changed project path to: C:/Users/Christian/VR-Concert
 C:/Users/Christian/VR-Concert
 Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 66.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.2f1 (e5d502d80fbb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Christian/VR-Concert/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     8088 MB
+    Driver:   27.21.14.6089
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56988
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002067 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 68.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.243 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002959 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.854 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2669 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.0 MB.
+System memory in use after: 113.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3140.
+Total: 2.116400 ms (FindLiveObjects: 0.214500 ms CreateObjectMapping: 0.108000 ms MarkObjects: 1.703600 ms  DeleteObjects: 0.089500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Audience/Prefabs
+  artifactKey: Guid(b0e16a1560aaef74988fb1be8e69ec90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audience/Prefabs using Guid(b0e16a1560aaef74988fb1be8e69ec90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9cfc1e9350897cd72e08eb4ab70355d') in 0.008306 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004360 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.851 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2662 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.8 MB.
+System memory in use after: 113.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3143.
+Total: 2.455200 ms (FindLiveObjects: 0.341100 ms CreateObjectMapping: 0.194600 ms MarkObjects: 1.837900 ms  DeleteObjects: 0.079800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 731.817281 seconds.
+  path: Assets/iPoly3D/Concert Pack/Textures/lowpoly_concert_textures _Glow.png
+  artifactKey: Guid(3e422b436ad654044b3e504df4f1491d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/iPoly3D/Concert Pack/Textures/lowpoly_concert_textures _Glow.png using Guid(3e422b436ad654044b3e504df4f1491d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73f1373d42c517cf68159555e30756b5') in 0.116193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/iPoly3D/Concert Pack/Textures/lowpoly_concert_textures.png
+  artifactKey: Guid(6d5b65a384464c0429baaece4bb7d56c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/iPoly3D/Concert Pack/Textures/lowpoly_concert_textures.png using Guid(6d5b65a384464c0429baaece4bb7d56c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fcd6cc85f08a5c158620a7a61381aab') in 0.010327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.950067 seconds.
+  path: Assets/Rockstar Asset Pack/Prefabs
+  artifactKey: Guid(502b4c5c9f06241ef8ef26dedd34c386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Prefabs using Guid(502b4c5c9f06241ef8ef26dedd34c386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04bdd1aafc92e794e77a42c8cd4efd92') in 0.006296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.086998 seconds.
+  path: Assets/Rockstar Asset Pack/Prefabs/PurpleDrumSet.prefab
+  artifactKey: Guid(b70de8949248542a9ba7ac184b6542f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Prefabs/PurpleDrumSet.prefab using Guid(b70de8949248542a9ba7ac184b6542f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034e7a3c4380499d993e3b7307890bf1') in 0.169786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Rockstar Asset Pack/Prefabs/Snare (Red).prefab
+  artifactKey: Guid(c77c542a832f74bf5a102ae3eb96e1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Prefabs/Snare (Red).prefab using Guid(c77c542a832f74bf5a102ae3eb96e1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195c614953c24b934438835d2611dc2c') in 0.027369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.141504 seconds.
+  path: Assets/Rockstar Asset Pack/Materials/OrangeRim.mat
+  artifactKey: Guid(ad246d0b195484540b639809beec0e7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Materials/OrangeRim.mat using Guid(ad246d0b195484540b639809beec0e7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab23263026036ecd920bcb98cccfda5') in 0.033201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Rockstar Asset Pack/Materials/RedDrums.mat
+  artifactKey: Guid(e9cad5328bae4483fb297697c60c556f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Materials/RedDrums.mat using Guid(e9cad5328bae4483fb297697c60c556f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f425290863e55b56f7d20459f6d278a') in 0.011549 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.535840 seconds.
+  path: Assets/Rockstar Asset Pack/Textures/Drums.png
+  artifactKey: Guid(5a159361242cf4a2f9c644b92affc558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Textures/Drums.png using Guid(5a159361242cf4a2f9c644b92affc558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06bbb76eb9e9ad29186e57b24151c80d') in 0.011200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Rockstar Asset Pack/Textures/replacement-drum-head.png
+  artifactKey: Guid(99305797dcb8440f098c4f8f09c07e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Textures/replacement-drum-head.png using Guid(99305797dcb8440f098c4f8f09c07e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc24492d486afd4ef13411832a44116e') in 0.012622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Rockstar Asset Pack/Textures/RedDrums.png
+  artifactKey: Guid(977ac82d72d17457294147cd0dae3c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Textures/RedDrums.png using Guid(977ac82d72d17457294147cd0dae3c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bbe0bfda949309db0c197ffc0e1e872') in 0.010497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 467.326706 seconds.
+  path: Assets/Studio Nik/Low Poly Guitars/Assets/Materials/Black.mat
+  artifactKey: Guid(455add52b0d41074fab9e8084406b1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Studio Nik/Low Poly Guitars/Assets/Materials/Black.mat using Guid(455add52b0d41074fab9e8084406b1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b991e7592cd7c5a4ffdbc4dcece58851') in 0.011701 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Studio Nik/Low Poly Guitars/Assets/Materials/Red.mat
+  artifactKey: Guid(e0107b532cdd96946aba2a5aa3483d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Studio Nik/Low Poly Guitars/Assets/Materials/Red.mat using Guid(e0107b532cdd96946aba2a5aa3483d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa4626d7a978c535da585be3bf5ef5ae') in 0.012017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Studio Nik/Low Poly Guitars/Assets/Materials/White.mat
+  artifactKey: Guid(82538ed53b7a00e4e8dfc6c9e522e233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Studio Nik/Low Poly Guitars/Assets/Materials/White.mat using Guid(82538ed53b7a00e4e8dfc6c9e522e233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f622ddc3db223ed9226bd36a948df30c') in 0.010178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.517951 seconds.
+  path: Assets/Studio Nik/Low Poly Guitars/Assets/Meshes/AcousticGuitar.fbx
+  artifactKey: Guid(00999be0898609343b1b75422f0c8bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Studio Nik/Low Poly Guitars/Assets/Meshes/AcousticGuitar.fbx using Guid(00999be0898609343b1b75422f0c8bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46f3be6155e681416b56c838d17114af') in 0.059556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Studio Nik/Low Poly Guitars/Assets/Meshes/BassGuitar.fbx
+  artifactKey: Guid(818f40ef2ffb36b40bd912ea31956bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Studio Nik/Low Poly Guitars/Assets/Meshes/BassGuitar.fbx using Guid(818f40ef2ffb36b40bd912ea31956bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1e93520a88581eebb74c8e80bc1d90e') in 0.039431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 140.391566 seconds.
+  path: Assets/Rockstar Asset Pack/Amps
+  artifactKey: Guid(7282da47a81574281a6fa3b592ba6822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Amps using Guid(7282da47a81574281a6fa3b592ba6822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e5c74ae9d5379b8c9d4e84d3cc3fbc') in 0.005552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.057433 seconds.
+  path: Assets/Rockstar Asset Pack/Amps/CabHead.fbx
+  artifactKey: Guid(7f8d294f4f6bf4ef5aa3e52b815647e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Amps/CabHead.fbx using Guid(7f8d294f4f6bf4ef5aa3e52b815647e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c261ed2918c479819e4045456bee9a7') in 0.043563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Rockstar Asset Pack/Amps/SingleCab.fbx
+  artifactKey: Guid(5603e034eb1d5425596b86432e55a016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Amps/SingleCab.fbx using Guid(5603e034eb1d5425596b86432e55a016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c9c3b9b0ea17dd1f8841eb117ef352') in 0.041878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Rockstar Asset Pack/Amps/LargeCab.fbx
+  artifactKey: Guid(3d76c26591ee04d10ba91ee80550ddcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Amps/LargeCab.fbx using Guid(3d76c26591ee04d10ba91ee80550ddcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ff402dd21aa7bb8edb80972d1752aa') in 0.041669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Rockstar Asset Pack/Amps/SingleAmp.fbx
+  artifactKey: Guid(00d147326e0634f0390c6b90dc2ecde7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Amps/SingleAmp.fbx using Guid(00d147326e0634f0390c6b90dc2ecde7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4ffd554471b9657858bbbf85651332c') in 0.047285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 781.030067 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/Bell_001.prefab
+  artifactKey: Guid(892beb128b6d3da46ba9bf3a4912c580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/Bell_001.prefab using Guid(892beb128b6d3da46ba9bf3a4912c580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f7d027984d5d73b455692d767a540a') in 0.013776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/SteelDrum.prefab
+  artifactKey: Guid(ab40e2322c6172f47bb69052939f3106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/SteelDrum.prefab using Guid(ab40e2322c6172f47bb69052939f3106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23665e775c0a880e23d16967706cc39c') in 0.012198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/BongoElephant_001.prefab
+  artifactKey: Guid(9db91094aa21f884bbc2946d20f4a5fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/BongoElephant_001.prefab using Guid(9db91094aa21f884bbc2946d20f4a5fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cff184a088cd1d3e85148b02f652f314') in 0.017729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/Marimba.prefab
+  artifactKey: Guid(b93e0c05e880c67449fd477c6411622e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/Marimba.prefab using Guid(b93e0c05e880c67449fd477c6411622e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfc6e5e585e403f68702f2420c1e4d9b') in 0.021585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/Bush.prefab
+  artifactKey: Guid(49c4890e1de5204409a6b4c28dc1ab36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/Bush.prefab using Guid(49c4890e1de5204409a6b4c28dc1ab36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11940083fb35434818d0440035d4f16d') in 0.011715 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/Dondo.prefab
+  artifactKey: Guid(5aad89146f01ae148856cf18a08aac51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/Dondo.prefab using Guid(5aad89146f01ae148856cf18a08aac51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac5cf71d64901563b0797487d20ce940') in 0.019278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/Hut_001.prefab
+  artifactKey: Guid(121612ea41d1e794a829524cb62f8e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/Hut_001.prefab using Guid(121612ea41d1e794a829524cb62f8e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb19411e8e2cdcdb8fc438532860d002') in 0.011569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/Shaker.prefab
+  artifactKey: Guid(673224de6832af341b6e346a8f34e664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/Shaker.prefab using Guid(673224de6832af341b6e346a8f34e664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d85b9784732afb033afbe8c621bc022') in 0.019378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/Table_001.prefab
+  artifactKey: Guid(7ea397136f9ff9a4591a98e2daba66b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/Table_001.prefab using Guid(7ea397136f9ff9a4591a98e2daba66b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c47f5efc04138d90924f41b35b8cbf2') in 0.015931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/TalkingDrum.prefab
+  artifactKey: Guid(32b87decfd216ac45aca0666543bccfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/TalkingDrum.prefab using Guid(32b87decfd216ac45aca0666543bccfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac2f19597e39aa16434acf2e9196e2d') in 0.021369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/TalkingDrumStick.prefab
+  artifactKey: Guid(0908c68130cc9bf419f4a56e93d494f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/TalkingDrumStick.prefab using Guid(0908c68130cc9bf419f4a56e93d494f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40136d484af195d3241c45481ef65707') in 0.013481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/WoodBell.prefab
+  artifactKey: Guid(5eaf19715b028ed43b772214eff569a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/WoodBell.prefab using Guid(5eaf19715b028ed43b772214eff569a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ed895e6b0f332726f9ed27e8a701ce') in 0.011217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/Shekere.prefab
+  artifactKey: Guid(acff1901ae52be44b80a772784611dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/Shekere.prefab using Guid(acff1901ae52be44b80a772784611dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd2b33aedae83c3b0cd3060e7e87779b') in 0.017136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/Kalimba.prefab
+  artifactKey: Guid(ef45c46b3fd68d440b20513a1b451814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/Kalimba.prefab using Guid(ef45c46b3fd68d440b20513a1b451814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '129f6e2a4c5ac44b37cd71013699e8cb') in 0.018505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/Bongo_001.prefab
+  artifactKey: Guid(0de7231de77ed1740bb256a1394af1d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/Bongo_001.prefab using Guid(0de7231de77ed1740bb256a1394af1d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '982b29d74a581a1c6816789b17a10ee0') in 0.010997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/Didgeridoo.prefab
+  artifactKey: Guid(5f79c9745c892aa46814e356fdc0c504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/Didgeridoo.prefab using Guid(5f79c9745c892aa46814e356fdc0c504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f51bd128de5b56b27d752e80c5bd51dd') in 0.011857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/Table_002.prefab
+  artifactKey: Guid(6d5952e2322f9c646a908591785e6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/Table_002.prefab using Guid(6d5952e2322f9c646a908591785e6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36799064a01dce2c291b0fe34f162fde') in 0.011706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs/Guitar_001.prefab
+  artifactKey: Guid(e7eb053ecff66f2469d9faf5c6e8cc22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs/Guitar_001.prefab using Guid(e7eb053ecff66f2469d9faf5c6e8cc22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85d05b20876ab35fd822f77c87040f8') in 0.010441 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 45.025996 seconds.
+  path: Assets/Rockstar Asset Pack/Misc_
+  artifactKey: Guid(a7899d26eb0b9430f8f8d81524d9427f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rockstar Asset Pack/Misc_ using Guid(a7899d26eb0b9430f8f8d81524d9427f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4802de10de58d2d4ef2233014f7bdf4') in 0.005510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.616352 seconds.
+  path: Assets/LowPolyAfricanInstruments/Meshes
+  artifactKey: Guid(0c30ff9dc8f55fc47b953bb3df784f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Meshes using Guid(0c30ff9dc8f55fc47b953bb3df784f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87acc51f193a1a651dd24c13ff850844') in 0.005651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.349984 seconds.
+  path: Assets/LowPolyAfricanInstruments/Prefabs
+  artifactKey: Guid(e1a2eba01aed8e24dbe74b0ad8f7733a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Prefabs using Guid(e1a2eba01aed8e24dbe74b0ad8f7733a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b01e8578cb37074d6d76c274e65d2e38') in 0.001686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 651.946989 seconds.
+  path: Assets/LowPolyAfricanInstruments/Standard Assets/Characters/FirstPersonCharacter
+  artifactKey: Guid(943e057eaae705e43b9e9b2e53d6adb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAfricanInstruments/Standard Assets/Characters/FirstPersonCharacter using Guid(943e057eaae705e43b9e9b2e53d6adb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0689b46704dba440e1a7b5fdc62a392') in 0.005715 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002990 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.797 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2667 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.6 MB.
+System memory in use after: 119.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3267.
+Total: 2.843900 ms (FindLiveObjects: 0.356600 ms CreateObjectMapping: 0.185200 ms MarkObjects: 2.206300 ms  DeleteObjects: 0.094200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003084 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.000 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2662 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3270.
+Total: 4.906500 ms (FindLiveObjects: 0.695100 ms CreateObjectMapping: 0.942500 ms MarkObjects: 3.187600 ms  DeleteObjects: 0.079800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 593.211666 seconds.
+  path: Assets/TileableBricksWall/Textures
+  artifactKey: Guid(ca117a9fa08522849b8f059f50eefc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileableBricksWall/Textures using Guid(ca117a9fa08522849b8f059f50eefc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '305da7d8920a93a3b4e2bf29e371e235') in 0.010138 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002899 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.814 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2662 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3273.
+Total: 1.966300 ms (FindLiveObjects: 0.248400 ms CreateObjectMapping: 0.131500 ms MarkObjects: 1.527300 ms  DeleteObjects: 0.058100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.006003 seconds.
+  path: Assets/Locker_room_props/3dobjectsFBX
+  artifactKey: Guid(21e4b9aff946cfc4daec15280d59b17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Locker_room_props/3dobjectsFBX using Guid(21e4b9aff946cfc4daec15280d59b17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f583b34b4b3c0a2859a708f25dbec8') in 0.009255 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.848274 seconds.
+  path: Assets/Locker_room_props/example_sceneSettings.lighting
+  artifactKey: Guid(2e47a9c5a45a37442afddfe43fbfb06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Locker_room_props/example_sceneSettings.lighting using Guid(2e47a9c5a45a37442afddfe43fbfb06b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'a94ff0b1f3043df3fd3ddde7a6b42f1b') in 0.014381 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003101 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.953 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2662 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3276.
+Total: 2.855900 ms (FindLiveObjects: 0.297100 ms CreateObjectMapping: 0.270000 ms MarkObjects: 2.213700 ms  DeleteObjects: 0.074100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 296.397686 seconds.
+  path: Assets/iPoly3D/Concert Pack/Prefabs
+  artifactKey: Guid(1598b4f7b337bea46a305a7dabdec319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/iPoly3D/Concert Pack/Prefabs using Guid(1598b4f7b337bea46a305a7dabdec319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '682c7a9042405f943f20fe4591f5901c') in 0.005843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.425215 seconds.
+  path: Assets/iPoly3D/Concert Pack/Materials/lowpoly_concert_textures _Glow.mat
+  artifactKey: Guid(edf49f9459a087d428bd504194913556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/iPoly3D/Concert Pack/Materials/lowpoly_concert_textures _Glow.mat using Guid(edf49f9459a087d428bd504194913556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032f730780afe144675750cbc706b4da') in 0.050078 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/iPoly3D/Concert Pack/Materials/lowpoly_concert_textures.mat
+  artifactKey: Guid(b336ed856f4cb274c88be2faaf1a66ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/iPoly3D/Concert Pack/Materials/lowpoly_concert_textures.mat using Guid(b336ed856f4cb274c88be2faaf1a66ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b48165d58abe5e60170b464c91f3f03c') in 0.011088 seconds 

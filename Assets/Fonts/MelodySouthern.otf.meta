@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cd39851c783f2a446b06b9a1ef20e3a0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Melody Southern
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7424a2462f61d0d42bf9c8e6176ad429, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
