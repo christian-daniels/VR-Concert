@@ -14,6 +14,25 @@ public class PlayerMovement : MonoBehaviour
     public float groundDistance = 0.4f; // we project a sphere on the ground to check if there are any collisions - if so we are grounded
     Vector3 velocity;
     bool isGrounded;
+
+    public GameObject aGuitar;
+    public AudioSource aGuitarSource;
+    public GameObject eGuitar;
+    public AudioSource eGuitarSource;
+    public GameObject bass;
+    public AudioSource bassSource;
+    public GameObject mic;
+    public AudioSource micSource;
+
+    public AudioSource drumSource;
+
+
+    void deactivateInstruments(){
+        mic.SetActive(false);
+        aGuitar.SetActive(false);
+        eGuitar.SetActive(false);
+        bass.SetActive(false);
+    }
     // Update is called once per frame
     void Update()
     {
@@ -35,5 +54,65 @@ public class PlayerMovement : MonoBehaviour
         // apply gravity
         velocity.y += gravity * Time.deltaTime;
         controller.Move(velocity * Time.deltaTime);
+
+        // If user pressed Left click
+        if (Input.GetMouseButtonDown(0)) {
+            RaycastHit  hit;
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            // hit an object
+            if (Physics.Raycast(ray, out hit)) {
+                // Object was Bass
+                if (hit.transform.name == "Stand+BassGuitar" ){
+                    Debug.Log("Clicked on Bass");
+                    deactivateInstruments();
+                    bass.SetActive(true);
+                }
+                // Object was Drums
+                if (hit.transform.name == "BassDrum" ){
+                    Debug.Log("Clicked on Drums");
+                    deactivateInstruments();
+                    drumSource.Play();
+                }
+                // Object was Acoustic Guitar
+                if (hit.transform.name == "Stand+AcousticGuitar" ){
+                    Debug.Log("Clicked on Acoustic Guitar");
+                    deactivateInstruments();
+                    aGuitar.SetActive(true);
+                }
+                // Object was Electric Guitar
+                if (hit.transform.name == "Stand+ElectricGuitar" ){
+                    Debug.Log("Clicked on Electric Guitar");
+                    deactivateInstruments();
+                    eGuitar.SetActive(true);
+                }
+                // Object was Mic
+                if (hit.transform.name == "MicrophonewStand" ){
+                    Debug.Log("Clicked on Mic");
+                    deactivateInstruments();
+                    mic.SetActive(true);
+                }
+                // Debug.Log(hit.transform.name);
+            }
+        }
+        // If user pressed right click - play audio source
+        if (Input.GetMouseButtonDown(1)){
+            Debug.Log("play audio");
+            // holding bass
+            if(bass.activeSelf == true){
+                bassSource.Play();
+            }
+            // holding aGuitar
+            else if(aGuitar.activeSelf == true){
+                aGuitarSource.Play();
+            }
+            // holding eGuitar
+            else if(eGuitar.activeSelf == true){
+                eGuitarSource.Play();
+            }
+            // holding bass
+            else if(mic.activeSelf == true){
+                micSource.Play();
+            }
+        }
     }
 }

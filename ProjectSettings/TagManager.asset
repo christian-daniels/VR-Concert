@@ -8,6 +8,7 @@ TagManager:
   - InteractiveObject
   - DoorButton
   - Song
+  - Interactive
   layers:
   - Default
   - TransparentFX

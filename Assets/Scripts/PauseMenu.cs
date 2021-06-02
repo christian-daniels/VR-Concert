@@ -9,7 +9,7 @@ public class PauseMenu : MonoBehaviour
     public AudioSource audioSource;
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Escape)){
+        if(Input.GetKeyDown(KeyCode.Space)){
             if(GameIsPaused){
                 Resume();
             }
@@ -21,19 +21,19 @@ public class PauseMenu : MonoBehaviour
 
     public void Resume(){
         pauseMenuUI.SetActive(false);
-        Time.timeScale = 1f;
+        // Time.timeScale = 1f;
         GameIsPaused = false;
-        Cursor.lockState = CursorLockMode.Locked;
+        // Cursor.lockState = CursorLockMode.Locked;
         audioSource.Play();
     }
 
     void Pause(){
         pauseMenuUI.SetActive(true);
-        Time.timeScale = 0f;
+        // Time.timeScale = 0f;
         GameIsPaused = true;
-        if(Cursor.lockState != CursorLockMode.None){
-Cursor.lockState = CursorLockMode.None;
-        }
+//         if(Cursor.lockState != CursorLockMode.None){
+// Cursor.lockState = CursorLockMode.None;
+//         }
         audioSource.Pause();
     }
     public void LoadMenu(){
